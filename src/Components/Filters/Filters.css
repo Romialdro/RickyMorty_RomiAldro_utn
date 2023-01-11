@@ -1,0 +1,20 @@
+
+.area{
+        background-color: #344D67!important;
+        color: #6ECCAF!important;
+        font-family: Raleway;
+        font-size: large!important;
+        font-weight: bolder!important;
+        border-radius: 10px;
+        border: 10px solid #344D67!important;
+        
+    }
+.bttn{
+    background-color: #6ECCAF!important;
+    }
+    .bttn:hover{
+    background-color: #344D67!important;
+    }
+label{
+    color: #6ECCAF!important;
+}

@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,200&display=swap');
+*{
+    margin:0;
+    padding:0;
+    font-family: Raleway;    
+}
+body {
+    background-image: url(../Images/rickymorty\ 1.jpg );
+    background-attachment: fixed;
+    background-size: cover;
+        
+}
+main{
+    background-color: #ffffffe6 ; 
+}
+.ul{
+    color: #6ECCAF;
+    font-size:x-large!important;
+    font-weight: bolder!important;
+}
+    .ul:hover{
+        color:#223142!important;
+        font-size:x-large!important;
+        font-weight: bolder!important;    
+    }
+

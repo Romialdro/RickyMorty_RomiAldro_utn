@@ -1,0 +1,26 @@
+button{
+   background-color: #344D67!important;
+   color: #6ECCAF!important;
+   font-family: Raleway;
+   border-radius: 10px;
+   border: 8px solid #344D67!important;
+   
+}
+button:hover{
+   background-color: #6ECCAF!important;
+   color: #344D67!important;
+   font-family: Raleway;
+   border-radius: 10px;
+   border: 8px solid #6ECCAF!important;
+}
+p{
+   color: #344D67!important;
+   font-weight: bolder!important;
+   font-size: xx-large!important;
+   text-align: center;
+}
+a:link{
+   color: red!important;
+}
+
+  

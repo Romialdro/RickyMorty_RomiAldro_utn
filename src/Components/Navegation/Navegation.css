@@ -1,0 +1,29 @@
+nav{
+    margin: 0;
+    padding: 0;
+    background-color: #344D67;
+    color: #6ECCAF!important;
+  
+}
+h1{
+    font-size:x-large!important;
+    font-weight: bolder!important;
+}
+button{
+    background-color: #6ECCAF;
+    color: #344D67!important;
+    font-family: Raleway;
+    font-weight: bolder!important;
+    font-size: larger;
+    border-radius: 10px!important;
+    border: 8px solid #6ECCAF;
+}
+button:hover{
+    background-color: #344D67;
+    color: #6ECCAF!important;
+    font-family: Raleway;
+    font-weight: bolder!important;
+    border-radius: 10px!important;
+    border-radius: 10px;
+    border: 8px solid #344D67;
+}
