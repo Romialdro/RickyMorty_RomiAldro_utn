@@ -14,7 +14,7 @@ main{
     background-color: #ffffffe6 ; 
 }
 .ul{
-    color: #6ECCAF;
+    color: #6ECCAF!important;
     font-size:x-large!important;
     font-weight: bolder!important;
 }

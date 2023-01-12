@@ -1,8 +1,19 @@
+*{
+    color:#6ECCAF!important;
+    text-decoration: none!important;
+     
+}
+*:hover{
+    color: #344D67!important;
+    text-decoration: none!important;    
+}
+
 nav{
     margin: 0;
     padding: 0;
     background-color: #344D67;
     color: #6ECCAF!important;
+    position: initial!important;
   
 }
 h1{

@@ -1,5 +1,7 @@
 .container{
     background-color: #5c7592e6; 
+    display: block!important;
+     
 }
 h3{
     color:#223142!important;

@@ -20,7 +20,7 @@ export default function Contact(){
           <div className="container position-absolute top-50 start-50 translate-middle p-5 m-5"> 
                     <h3 className="text-center">Contact</h3>
                     <h5 className="text-center">Leave us your information so we can contact you</h5>
-                <form className='row g-3 p-4'>
+                <form className='row g-3 p-4 m-5'>
                     <div className='col-6'>
                          <label htmlFor="nombre" className="form-label">Nombre</label>
                          <input type= "text" className="form-control" id="nombre" value={setImputNombre}onChange={registrerData}onBlur={mostrar}/>
